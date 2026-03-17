@@ -70,7 +70,7 @@ function App() {
             enfocarte en hacer crecer tu negocio.
           </p>
           <a className="hero-cta" href="#contacto">
-            Contactanos
+            Contáctanos
           </a>
         </div>
       </section>
