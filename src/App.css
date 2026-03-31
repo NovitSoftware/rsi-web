@@ -56,7 +56,7 @@
   display: flex;
   align-items: center;
   background:
-    url('https://images.unsplash.com/photo-1481455473976-c280ae7c10ce?w=1400&h=600&fit=crop&q=80')
+    url('/images/hero-bg.jpg')
     center / cover no-repeat;
   color: #fff;
   text-align: center;
