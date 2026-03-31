@@ -80,7 +80,7 @@ function App() {
           <div className="about-image">
             <img
               src="/images/about-security.jpg"
-              alt="Guardia de seguridad en ronda nocturna"
+              alt="Guardia de seguridad en uniforme"
               loading="lazy"
             />
           </div>
