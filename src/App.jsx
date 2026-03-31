@@ -79,7 +79,7 @@ function App() {
         <div className="container about-layout">
           <div className="about-image">
             <img
-              src="https://images.unsplash.com/photo-1682026520942-3cfadf21036d?w=600&h=400&fit=crop&q=80"
+              src="/images/about-security.jpg"
               alt="Guardia de seguridad en ronda nocturna"
               loading="lazy"
             />
@@ -124,7 +124,7 @@ function App() {
       {/* Imagen de campo */}
       <section className="field-image-section">
         <img
-          src="https://images.unsplash.com/photo-1558002038-1055907df827?w=1200&h=400&fit=crop&q=80"
+          src="/images/cctv-field.jpg"
           alt="Cámara de seguridad CCTV"
           className="field-image"
           loading="lazy"
