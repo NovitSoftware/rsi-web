@@ -79,8 +79,8 @@ function App() {
         <div className="container about-layout">
           <div className="about-image">
             <img
-              src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop&q=80"
-              alt="Equipo de profesionales de seguridad"
+              src="https://images.unsplash.com/photo-1682026520942-3cfadf21036d?w=600&h=400&fit=crop&q=80"
+              alt="Guardia de seguridad en ronda nocturna"
               loading="lazy"
             />
           </div>
@@ -124,8 +124,8 @@ function App() {
       {/* Imagen de campo */}
       <section className="field-image-section">
         <img
-          src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=400&fit=crop&q=80"
-          alt="Vigilador de seguridad en operación"
+          src="https://images.unsplash.com/photo-1558002038-1055907df827?w=1200&h=400&fit=crop&q=80"
+          alt="Cámara de seguridad CCTV"
           className="field-image"
           loading="lazy"
         />
@@ -141,11 +141,7 @@ function App() {
           <div className="contact-content">
             <div className="contact-item">
               <span className="contact-label">Email</span>
-              <a href="mailto:info@rsiargentina.com">info@rsiargentina.com</a>
-            </div>
-            <div className="contact-item">
-              <span className="contact-label">Teléfono</span>
-              <span>+54 11 5555-0199</span>
+              <a href="mailto:info@rsisec.lat">info@rsisec.lat</a>
             </div>
             <div className="contact-item">
               <span className="contact-label">Ubicación</span>
