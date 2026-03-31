@@ -1,6 +1,6 @@
 # RSI Argentina - Web
 
-Sitio web de RSI Argentina, empresa de servicios profesionales de gestión de RRHH (HRaaS).
+Sitio web de RSI Argentina, empresa de seguridad privada.
 
 ## Desarrollo
 
